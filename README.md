@@ -1,4 +1,4 @@
-### Olá, eu sou Leandro Andrey
+### Olá, Eu sou o Leandro Andrey
 - 💻 Hoje trabalho como Assistente de operações
 - 🌱 Estudando JavaScript - C - Linux
 - ✉️ Contate-me no email: leandro.andrey81@hotmail.com
