@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Leandro Andrey
 - 💻 Hoje trabalho como Assistente de operações
-- 🌱 Estudando JavaScript - C - Linux
+- 🌱 Estudando C - Linux
 - ✉️ Contate-me no email: leandro.andrey81@hotmail.com
 <div align=>
   <a href="https://github.com/leandroandrey">
