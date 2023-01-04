@@ -24,7 +24,6 @@
     
   ![Snake animation](https://github.com/leandroandrey/leandroandrey/blob/output/github-contribution-grid-snake.svg)  
     
-    
   <div>
 
     
