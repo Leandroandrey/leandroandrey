@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Leandro Andrey
-- 💻 Hoje trabalho como Assistente de operações
+- 💻 Hoje trabalho como Suporte ao desenvolvimento de software
 - 🌱 Estudando C - Linux
 - ✉️ Contate-me no email: leandro.andrey81@hotmail.com
 <div align=>
