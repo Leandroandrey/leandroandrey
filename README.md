@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Leandro Andrey
 - 💻 Hoje trabalho como Suporte ao desenvolvimento de software
-- 🌱 Estudando C#
+- 🌱 Estudando C# - Java - Angular
 - ✉️ Contate-me no email: leandro.andrey81@hotmail.com
 <div align=>
   <a href="https://github.com/leandroandrey">
