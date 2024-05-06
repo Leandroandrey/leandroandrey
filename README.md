@@ -4,8 +4,6 @@ Aprendiz de Front-End | Angular | Java | Em busca de oportunidades
 
 Sou um aprendiz de desenvolvimento web, apaixonado por criar interfaces de usuário dinâmicas e funcionais. Atualmente trabalho como Suporte ao desenvolvimento de software, mas estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. 
 
-<br>
-
 **Skills:**
 
 * Angular (Iniciante)
@@ -24,6 +22,9 @@ Sou um aprendiz de desenvolvimento web, apaixonado por criar interfaces de usuá
 **Projetos:**
 
 * DevLinks (HTML, CSS, JavaScript, Git e Github e Figma): https://github.com/Leandroandrey/Projeto-discover
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **Estatísticas do GitHub:**
 
