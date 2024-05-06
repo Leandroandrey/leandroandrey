@@ -23,9 +23,6 @@ Sou um aprendiz de desenvolvimento web, apaixonado por criar interfaces de usuá
 
 * DevLinks (HTML, CSS, JavaScript, Git e Github e Figma): https://github.com/Leandroandrey/Projeto-discover
 
-[![Readme Card](https://github.com/Leandroandrey/Projeto-discover/blob/main/README.md)
-
-
 **Estatísticas do GitHub:**
 
 <div align=>
