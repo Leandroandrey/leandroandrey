@@ -1,8 +1,8 @@
 ## Leandro Andrey
 
-Aprendiz de Front-End | Angular | Java | Em busca de oportunidades
+Aprendiz de Front-End | Angular | C# | DEV Junior
 
-Sou um aprendiz de desenvolvimento web, apaixonado por criar interfaces de usuário dinâmicas e funcionais. Atualmente trabalho como Suporte ao desenvolvimento de software, mas estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. 
+Sou um aprendiz de desenvolvimento web, apaixonado por criar interfaces de usuário dinâmicas e funcionais. Atualmente trabalho como Desenvolvedor de software Junior (Angular), mas estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. 
 
 **Skills:**
 
